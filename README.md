@@ -1,3 +1,3 @@
 # CV
 =========
-CV repository created
+This repo created just for storing my resume
